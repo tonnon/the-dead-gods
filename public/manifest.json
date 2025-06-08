@@ -1,0 +1,17 @@
+{
+  "name": "The Dead Gods",
+  "short_name": "Dead Gods",
+  "icons": [
+    {
+      "src": "/skull.svg",
+      "sizes": "32x32 64x64 128x128 256x256",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#8B5CF6",
+  "description": "Six legendary musicians rise from the dead to form the ultimate supergroup. Welcome to the afterlife."
+} 
